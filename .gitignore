@@ -1,0 +1,9 @@
+#jEdit temporary files
+*~
+
+#yardoc generated files
+.yardoc/
+doc/
+
+#binary build results
+build/
