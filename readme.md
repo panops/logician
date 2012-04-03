@@ -1,7 +1,9 @@
 Logician
 ========
 A Datalog-inspired fact analysis and deductive query system. Logician may use
-multiple storage backends in order to satisfy queries.
+multiple storage backends for Rules in order to satisfy queries. Logician 
+operates on the 'Closed World Assumption', everything that is not asserted in 
+the available Universe of Rules is assumed to not hold in the logical query.
 
 Usage
 -----
