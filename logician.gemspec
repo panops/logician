@@ -24,4 +24,5 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'rspec', '~> 2.7.0'
   gem.add_development_dependency 'yard', '~> 0.7'
   gem.add_development_dependency 'rdiscount', '~> 1.6.8'
+  gem.add_development_dependency 'autotest', '~> 4.4.6'
 end
